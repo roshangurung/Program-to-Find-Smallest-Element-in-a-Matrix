@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program to Find Smallest Element in a Matrix", "Program to Find Smallest Element in a Matrix\Program to Find Smallest Element in a Matrix.csproj", "{D6B447A3-8CD0-45DE-9314-1309F221B7FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6B447A3-8CD0-45DE-9314-1309F221B7FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6B447A3-8CD0-45DE-9314-1309F221B7FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6B447A3-8CD0-45DE-9314-1309F221B7FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6B447A3-8CD0-45DE-9314-1309F221B7FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F47C7761-2566-4C8B-AC5E-ACA94495E3FA}
+	EndGlobalSection
+EndGlobal
